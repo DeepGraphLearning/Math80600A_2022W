@@ -20,7 +20,7 @@ team:
 # Information
 
 - **Instructor**: [Jian Tang]
-- **Trimester**: Winter 2021
+- **Trimester**: Winter 2022
 - **When**:
   - **Class 1 (in French)**: 3:30 - 6:30 PM EST, Wednesday 
   - **Class 2 (in English)**: 8:30 - 11:30 AM EST, Thursday
