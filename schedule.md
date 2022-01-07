@@ -4,14 +4,20 @@ title: MATH 80600A - Machine Learning II<br>Deep Learning and Applications
 permalink: /schedule
 
 schedule:
-  - date: Jan.<br>5,6
+  - date: Jan. 5,6
     topics:
-    - name: Introduction
-      url: 
-    - name: Mathematics
-      url: 
-    - name: Machine Learning Basics
-      url: 
+    - name: Introduction (Eng)
+      url: https://www.dropbox.com/scl/fi/pxvhbtvn7kc5a6w4acna5/Week1-Intro.pptx?dl=0&rlkey=z99e8opm9si45a3irrwpo9lv4
+    - name: Introduction (Fr)
+      url: https://www.dropbox.com/s/qbfkq13vfrvs94d/Week1-Intro-Fr.pdf?dl=0
+    - name: Mathematics (Eng)
+      url: https://www.dropbox.com/s/a81iqbq875sfiqa/Week1-Maths.pdf?dl=0
+    - name: Mathematics (Fr)
+      url: https://www.dropbox.com/scl/fi/9s1z3aj94omm1c31i3i74/Week1-Maths-Fr.pptx?dl=0&rlkey=zmvys8noegv5he9x19p0t7ccd
+    - name: ML Basics (Eng)
+      url: https://www.dropbox.com/s/tsjrj7awawli5ax/Week1-ML.pdf?dl=0
+    - name: ML Basics (Fr)
+      url: https://www.dropbox.com/scl/fi/s9tasll7x6v9rdy2y57k7/Week1-ML-Fr.pptx?dl=0&rlkey=xk5xh1s0s83rrjkmoui3xnkpp
     readings:
       - name: Deep Learning Book
       - name: Chap. 2
@@ -20,7 +26,7 @@ schedule:
         url: http://www.deeplearningbook.org/contents/prob.html
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
-  - date: Jan.<br>12,13
+  - date: Jan. 12,13
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
       url: 
@@ -32,7 +38,7 @@ schedule:
         url: http://www.deeplearningbook.org/contents/regularization.html
       - name: Chap. 8
         url: http://www.deeplearningbook.org/contents/optimization.html
-  - date: Jan.<br>19,20
+  - date: Jan. 19,20
     topics:
       - name: PyTorch part 1
         url: 
@@ -50,7 +56,7 @@ schedule:
         url:  
       - name: Colab
         url: 
-  - date: Jan.<br>26,27
+  - date: Jan. 26,27
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks
         url: 
@@ -67,7 +73,7 @@ schedule:
         url: https://arxiv.org/abs/1412.3555
       - name: DenseNet
         url: https://arxiv.org/abs/1608.06993
-  - date: Feb.<br>2,3
+  - date: Feb. 2,3
     topics:
       - name: Natural Language Processing I
         url: 
@@ -77,7 +83,7 @@ schedule:
     presentations:
       - name: SGNS
         url: https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf
-  - date: Feb.<br>9,10
+  - date: Feb. 9,10
     topics:
       - name: Natural Language Processing II
         url: 
@@ -91,14 +97,14 @@ schedule:
         url: https://arxiv.org/abs/1503.00075
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
-  - date: Feb.<br>16,17
+  - date: Feb. 16,17
     topics: Q & A for Projects
     homeworks:
       - name: Instruction
         url: 
       - name: Kaggle
         url: 
-  - date: Mar.<br>2,3
+  - date: Mar. 2,3
     topics:
       - name: Natural Language Processing III
         url: 
@@ -114,7 +120,7 @@ schedule:
         url: https://arxiv.org/abs/1606.05250
       - name: GLUE Benchmark
         url: https://arxiv.org/abs/1804.07461
-  - date: Mar.<br>9,10
+  - date: Mar. 9,10
     topics:
       - name: Natural Language Processing IV
         url: 
@@ -126,7 +132,7 @@ schedule:
     presentations:
       - name: RoBERTa
         url: https://arxiv.org/pdf/1907.11692
-  - date: Mar.<br>16,17
+  - date: Mar. 16,17
     topics:
       - name: Graph Representation Learning I
         url:
@@ -142,7 +148,7 @@ schedule:
         url: https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
       - name: LargeVis
         url: https://arxiv.org/abs/1602.00370
-  - date: Mar.<br>23,24
+  - date: Mar. 23,24
     topics:
       - name: Graph Representation Learning II
         url:
@@ -162,7 +168,7 @@ schedule:
         url: https://arxiv.org/abs/1806.01973
       - name: HAN
         url: https://arxiv.org/abs/1903.07293
-  - date: Marh.<br>30,31
+  - date: Marh. 30,31
     topics: Recommender Systems
     readings:
       - name: Bayesian Personalized Ranking
@@ -178,13 +184,20 @@ schedule:
         url: https://arxiv.org/abs/1810.11921
       - name: DGRec
         url: https://arxiv.org/abs/1902.09362
-  - date: Apr.<br>6,7
+  - date: Apr. 6,7
     topics: Poster Sessions
 ---
 
 # Schedule for In-class Presentations
 
 <table>
+<colgroup>
+<col width="15%" />
+<col width="30%" />
+<col width="30%" />
+<col width="20%" />
+<col width="10%" />
+</colgroup>
   <tr>
     <th>Date</th>
     <th>Topic</th>
