@@ -28,8 +28,10 @@ schedule:
         url: http://www.deeplearningbook.org/contents/ml.html
   - date: Jan. 12,13
     topics:
-    - name: Feedforward Neural Networks & Optimization Tricks
-      url: 
+    - name: Feedforward Neural Networks & Optimization Tricks (Eng)
+      url: https://www.dropbox.com/s/j06w5wyv53e27x8/Week2-FFN%26Regularization.pdf?dl=0
+    - name: Feedforward Neural Networks & Optimization Tricks (Fr)
+      url: https://www.dropbox.com/scl/fi/46fjxkbpxlqa3o9jeqfrd/Week2-FFN-Regularization-Fr.pptx?dl=0&rlkey=lne5bbk06f2tvhg8hgzq0dily
     readings:
       - name: Deep Learning Book
       - name: Chap. 6
