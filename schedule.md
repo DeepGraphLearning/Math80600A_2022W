@@ -61,7 +61,7 @@ schedule:
   - date: Jan. 26,27
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks (Fr)
-        url: https://www.dropbox.com/s/661zce52xcbni5x/S3-CNN.key?dl=0
+        url: https://www.dropbox.com/s/j9mrvgl0ve9ctzy/S3-CNN.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 9
