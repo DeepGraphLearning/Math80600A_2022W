@@ -42,10 +42,10 @@ schedule:
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: Jan. 19,20
     topics:
-      - name: PyTorch part 1 (Eng)
-        url: https://www.dropbox.com/s/ljxxj2brb92rnrn/Deep%20Learning%20Frameworks%20part%201.pdf?dl=0
-      - name: PyTorch Part 2 (Eng)
-        url: https://www.dropbox.com/s/nsf3pg41t2od874/Deep%20Learning%20Frameworks%20part%202.pdf?dl=0
+      - name: PyTorch (Fr)
+        url: https://www.dropbox.com/s/bb5x16tp9j17gy0/S4-Pytorch.pdf?dl=0
+      - name: Notebook (Fr)
+        url: https://www.dropbox.com/s/3a678a33w4hmh4g/Introduction_%C3%A0_Pytorch.ipynb?dl=0
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
