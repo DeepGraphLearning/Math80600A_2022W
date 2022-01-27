@@ -60,6 +60,8 @@ schedule:
         url: 
   - date: Jan. 26,27
     topics:
+      - name: Convolutional Neural Networks & Recurrent Neural Networks (Eng)
+        url: https://www.dropbox.com/s/6qoo6g37xf08m3q/Week4-CNN%26RNN.pdf?dl=0
       - name: Convolutional Neural Networks & Recurrent Neural Networks (Fr)
         url: https://www.dropbox.com/s/j9mrvgl0ve9ctzy/S3-CNN.pdf?dl=0
     readings:
