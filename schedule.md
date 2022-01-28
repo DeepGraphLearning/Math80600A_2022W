@@ -46,6 +46,12 @@ schedule:
         url: https://www.dropbox.com/s/bb5x16tp9j17gy0/S4-Pytorch.pdf?dl=0
       - name: Notebook (Fr)
         url: https://www.dropbox.com/s/3a678a33w4hmh4g/Introduction_%C3%A0_Pytorch.ipynb?dl=0
+      - name: PyTorch (En)
+        url: https://www.dropbox.com/s/8b4g20nbyfe12ir/2022_Deep%20Learning%20Frameworks.pdf?dl=0
+      - name: Notebook Part I (En)
+        url: https://colab.research.google.com/drive/194KrzIRPRVJbVg2LcQH8-hSl-fjrcUdz?usp=sharing
+      - name: Notebook Part II (En)
+        url: https://colab.research.google.com/drive/1sTdqVEJUzBMcXI_NOXVrdfzP4D_xzWwy?usp=sharing
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
