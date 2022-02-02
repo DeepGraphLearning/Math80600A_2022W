@@ -85,8 +85,8 @@ schedule:
         url: https://arxiv.org/abs/1608.06993
   - date: Feb. 2,3
     topics:
-      - name: Natural Language Processing I
-        url: 
+      - name: Natural Language Processing I (Fr)
+        url: https://www.dropbox.com/s/yrgndvmakd9jmos/S5-RNN.pdf?dl=0
     readings:
       - name: Word2Vec
         url: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
