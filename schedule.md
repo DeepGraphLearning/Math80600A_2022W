@@ -8,14 +8,14 @@ schedule:
     topics:
     - name: Introduction (Eng)
       url: https://www.dropbox.com/scl/fi/pxvhbtvn7kc5a6w4acna5/Week1-Intro.pptx?dl=0&rlkey=z99e8opm9si45a3irrwpo9lv4
-    - name: Introduction (Fr)
-      url: https://www.dropbox.com/s/qbfkq13vfrvs94d/Week1-Intro-Fr.pdf?dl=0
     - name: Mathematics (Eng)
       url: https://www.dropbox.com/s/a81iqbq875sfiqa/Week1-Maths.pdf?dl=0
-    - name: Mathematics (Fr)
-      url: https://www.dropbox.com/scl/fi/9s1z3aj94omm1c31i3i74/Week1-Maths-Fr.pptx?dl=0&rlkey=zmvys8noegv5he9x19p0t7ccd
     - name: ML Basics (Eng)
       url: https://www.dropbox.com/s/tsjrj7awawli5ax/Week1-ML.pdf?dl=0
+    - name: Introduction (Fr)
+      url: https://www.dropbox.com/s/qbfkq13vfrvs94d/Week1-Intro-Fr.pdf?dl=0
+    - name: Mathematics (Fr)
+      url: https://www.dropbox.com/scl/fi/9s1z3aj94omm1c31i3i74/Week1-Maths-Fr.pptx?dl=0&rlkey=zmvys8noegv5he9x19p0t7ccd
     - name: ML Basics (Fr)
       url: https://www.dropbox.com/scl/fi/s9tasll7x6v9rdy2y57k7/Week1-ML-Fr.pptx?dl=0&rlkey=xk5xh1s0s83rrjkmoui3xnkpp
     readings:
@@ -42,16 +42,16 @@ schedule:
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: Jan. 19,20
     topics:
+      - name: PyTorch (Eng)
+        url: https://www.dropbox.com/s/8b4g20nbyfe12ir/2022_Deep%20Learning%20Frameworks.pdf?dl=0
+      - name: Notebook Part I (Eng)
+        url: https://colab.research.google.com/drive/194KrzIRPRVJbVg2LcQH8-hSl-fjrcUdz?usp=sharing
+      - name: Notebook Part II (Eng)
+        url: https://colab.research.google.com/drive/1sTdqVEJUzBMcXI_NOXVrdfzP4D_xzWwy?usp=sharing
       - name: PyTorch (Fr)
         url: https://www.dropbox.com/s/bb5x16tp9j17gy0/S4-Pytorch.pdf?dl=0
       - name: Notebook (Fr)
         url: https://www.dropbox.com/s/3a678a33w4hmh4g/Introduction_%C3%A0_Pytorch.ipynb?dl=0
-      - name: PyTorch (En)
-        url: https://www.dropbox.com/s/8b4g20nbyfe12ir/2022_Deep%20Learning%20Frameworks.pdf?dl=0
-      - name: Notebook Part I (En)
-        url: https://colab.research.google.com/drive/194KrzIRPRVJbVg2LcQH8-hSl-fjrcUdz?usp=sharing
-      - name: Notebook Part II (En)
-        url: https://colab.research.google.com/drive/1sTdqVEJUzBMcXI_NOXVrdfzP4D_xzWwy?usp=sharing
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
@@ -85,6 +85,8 @@ schedule:
         url: https://arxiv.org/abs/1608.06993
   - date: Feb. 2,3
     topics:
+      - name: Natural Language Processing I (Eng)
+        url: https://www.dropbox.com/s/ds4jlcbpvfrdl4r/Week5-DL4NLP-part1.pdf?dl=0
       - name: Natural Language Processing I (Fr)
         url: https://www.dropbox.com/s/yrgndvmakd9jmos/S5-RNN.pdf?dl=0
     readings:
