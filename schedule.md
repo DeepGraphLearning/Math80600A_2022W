@@ -59,11 +59,6 @@ schedule:
         url: https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0
       - name: Dive into Deep Learning
         url: https://github.com/dsgiitr/d2l-pytorch
-    homeworks:
-      - name: Instruction
-        url:  
-      - name: Colab
-        url: 
   - date: Jan. 26,27
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks (Eng)
@@ -109,13 +104,13 @@ schedule:
         url: https://arxiv.org/abs/1503.00075
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
+    homeworks:
+      - name: Instruction (Eng)
+        url: https://www.dropbox.com/s/u219h4l40traj1b/2022_Math80600A_HW_1.pdf?dl=0
+      - name: Instruction (Fr)
+        url: https://www.dropbox.com/s/s67d943qiy2bs30/2022_Math80600H_DEV_1.pdf?dl=0
   - date: Feb. 16,17
     topics: Q & A for Projects
-    homeworks:
-      - name: Instruction
-        url: 
-      - name: Kaggle
-        url: 
   - date: Mar. 2,3
     topics:
       - name: Natural Language Processing III
