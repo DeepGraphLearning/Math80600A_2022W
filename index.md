@@ -8,12 +8,12 @@ team:
     url: https://jian-tang.com/
     title: Instructor
     image: assets/images/jian_tang.jpg
-  - name: Andreea Deac
-    title: Teaching Assistant
-    image: assets/images/louis_pascal_xhonneux.jpeg
   - name: David Berger
     title: Teaching Assistant
     image: assets/images/shengchao_liu.jpeg
+  - name: Andreea Deac
+    title: Teaching Assistant
+    image: assets/images/louis_pascal_xhonneux.jpeg
 ---
 
 
