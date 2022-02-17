@@ -108,9 +108,9 @@ schedule:
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
     homeworks:
       - name: Instruction (Eng)
-        url: https://www.dropbox.com/s/u219h4l40traj1b/2022_Math80600A_HW_1.pdf?dl=0
+        url: https://www.dropbox.com/s/e36h34ovpde4jl3/2022_Math80600A_HW_1.pdf?dl=0
       - name: Instruction (Fr)
-        url: https://www.dropbox.com/s/s67d943qiy2bs30/2022_Math80600H_DEV_1.pdf?dl=0
+        url: https://www.dropbox.com/s/4y915stmx3zmqdb/2022_Math80600H_DEV_1.pdf?dl=0
   - date: Feb. 16,17
     topics: Q & A for Projects
   - date: Mar. 2,3
