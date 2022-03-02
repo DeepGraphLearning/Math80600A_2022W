@@ -115,6 +115,8 @@ schedule:
     topics: Q & A for Projects
   - date: Mar. 2,3
     topics:
+      - name: Natural Language Processing III (Eng)
+        url: https://www.dropbox.com/s/4i3k59kakn74dd5/Week7-DL4NLP-part2.pdf?dl=0
       - name: Natural Language Processing III (Fr)
         url: https://www.dropbox.com/s/ofcbhg1hhuaz10x/S7-Transformer_Bert.pdf?dl=0
     readings:
