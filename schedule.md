@@ -115,8 +115,8 @@ schedule:
     topics: Q & A for Projects
   - date: Mar. 2,3
     topics:
-      - name: Natural Language Processing III
-        url: 
+      - name: Natural Language Processing III (Fr)
+        url: https://www.dropbox.com/s/ofcbhg1hhuaz10x/S7-Transformer_Bert.pdf?dl=0
     readings:
       - name: Attention Seq2Seq
         url: https://arxiv.org/abs/1409.0473
