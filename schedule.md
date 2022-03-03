@@ -115,10 +115,14 @@ schedule:
     topics: Q & A for Projects
   - date: Mar. 2,3
     topics:
-      - name: Natural Language Processing III (Eng)
+      - name: Natural Language Processing III (PDF, Eng)
         url: https://www.dropbox.com/s/4i3k59kakn74dd5/Week7-DL4NLP-part2.pdf?dl=0
-      - name: Natural Language Processing III (Fr)
+      - name: Natural Language Processing III (PPT/Keynote, Eng)
+        url: https://www.dropbox.com/scl/fi/dxmnnec6wlvh3vbliabzu/Week7-DL4NLP-part2.pptx?dl=0&rlkey=0enqauq5fgmk8dd8azyxtkqpj
+      - name: Natural Language Processing III (PDF, Fr)
         url: https://www.dropbox.com/s/ofcbhg1hhuaz10x/S7-Transformer_Bert.pdf?dl=0
+      - name: Natural Language Processing III (PPT/KetNote, Fr)
+        url: https://www.dropbox.com/s/yq47vyxf20qa1qg/S7-Transformer_Bert.key?dl=0
     readings:
       - name: Attention Seq2Seq
         url: https://arxiv.org/abs/1409.0473
