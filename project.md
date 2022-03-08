@@ -10,6 +10,7 @@ The goal of the course project is to apply deep learning techniques learned in c
 
 Full instruction can be found [here (Eng & Fr)](https://www.dropbox.com/s/envkkwtvj7if1kd/Instructions_on_Course_Projects.pdf?dl=0).
 
+The GCP tutorial can be found [here (Eng)](https://www.dropbox.com/s/gqpjr50zsfkso3f/GCP_Tutorial.pdf?dl=0).
 
 ## Guidelines
 
