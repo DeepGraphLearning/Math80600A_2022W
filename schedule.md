@@ -137,8 +137,8 @@ schedule:
         url: https://arxiv.org/abs/1804.07461
   - date: Mar. 9,10
     topics:
-      - name: Natural Language Processing IV
-        url: 
+      - name: Natural Language Processing IV (Fr)
+        url: https://www.dropbox.com/s/38y90wmj5dlejzq/S8-AE%26VAE.pdf?dl=0
     readings:
       - name: BERT
         url: https://arxiv.org/abs/1810.04805
