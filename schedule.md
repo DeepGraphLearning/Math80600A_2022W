@@ -148,7 +148,7 @@ schedule:
       - name: RoBERTa
         url: https://arxiv.org/pdf/1907.11692
     homeworks:
-      - name: Instruction (Eng)
+      - name: Instruction (Eng & Fr)
         url: https://www.dropbox.com/s/r32tentediwy854/HW2_Instruction.pdf?dl=0
   - date: Mar. 16,17
     topics:
