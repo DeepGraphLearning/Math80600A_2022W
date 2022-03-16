@@ -154,8 +154,10 @@ schedule:
         url: https://www.dropbox.com/s/r32tentediwy854/HW2_Instruction.pdf?dl=0
   - date: Mar. 16,17
     topics:
-      - name: Graph Representation Learning I
-        url:
+      - name: Graph Representation Learning I (Eng)
+        url: https://www.dropbox.com/s/93xzu60nnp3kyhk/Week9-Graph-part1.pdf?dl=0
+      - name: Graph Representation Learning I (Fr)
+        url: https://www.dropbox.com/s/0edhm0ajk59jz1t/S9-Graphes-P1.pdf?dl=0
     readings:
       - name: DeepWalk
         url: https://arxiv.org/abs/1403.6652
