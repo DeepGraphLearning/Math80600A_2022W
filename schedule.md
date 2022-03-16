@@ -157,7 +157,7 @@ schedule:
       - name: Graph Representation Learning I (Eng)
         url: https://www.dropbox.com/s/93xzu60nnp3kyhk/Week9-Graph-part1.pdf?dl=0
       - name: Graph Representation Learning I (Fr)
-        url: https://www.dropbox.com/s/0edhm0ajk59jz1t/S9-Graphes-P1.pdf?dl=0
+        url: https://www.dropbox.com/s/jmxyummz2022zpk/S9-Graphes-P1.pdf?dl=0
     readings:
       - name: DeepWalk
         url: https://arxiv.org/abs/1403.6652
