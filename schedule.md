@@ -172,8 +172,10 @@ schedule:
         url: https://arxiv.org/abs/1602.00370
   - date: Mar. 23,24
     topics:
+      - name: Graph Representation Learning II (Eng)
+        url: https://www.dropbox.com/s/lxuk6rcw2bv4ea4/Week10-Graph-part2.pdf?dl=0
       - name: Graph Representation Learning II (Fr)
-        url: https://www.dropbox.com/s/h7vu875a8f38lw1/S10-Graphes-P2.key?dl=0
+        url: https://www.dropbox.com/s/ra56jtujrogz8qa/S10-Graphes-P2.pdf?dl=0
     readings:
       - name: Graph Convolutional Networks
         url: https://arxiv.org/abs/1609.02907
