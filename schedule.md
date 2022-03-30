@@ -193,21 +193,11 @@ schedule:
       - name: HAN
         url: https://arxiv.org/abs/1903.07293
   - date: Marh. 30,31
-    topics: Recommender Systems
+    topics:
+      - name: AI for drug discovery (Eng)
+        url: https://www.dropbox.com/s/ob4vn10kn4mqrlk/GDL4DD.pdf?dl=0
     readings:
-      - name: Bayesian Personalized Ranking
-        url: https://arxiv.org/abs/1205.2618
-      - name: Factorization Machines
-        url: https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
-      - name: RNN-based recommendations
-        url: https://arxiv.org/abs/1511.06939
     presentations:
-      - name: NCF
-        url: https://arxiv.org/abs/1708.05031
-      - name: AutoInt
-        url: https://arxiv.org/abs/1810.11921
-      - name: DGRec
-        url: https://arxiv.org/abs/1902.09362
   - date: Apr. 6,7
     topics: Poster Sessions
 ---
