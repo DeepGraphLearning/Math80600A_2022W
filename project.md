@@ -28,7 +28,7 @@ The final report should be submitted in pdf format.
 
 - We created a space [here](https://app.gather.town/invite?token=fqdUAa8nsX9ono7di7MH6cW466atsgt2), and you will upload your project poster (in groups).
 
-- Here is a [PDF tutorial](https://www.dropbox.com/s/xq6xofcww1hn4oi/GatherTown%20Tutorial.pdf?dl=0) and a 1-min [video tutorial](https://www.dropbox.com/s/62r79g7j8tzhvhu/GatherTown%20Tutorial.mov?dl=0).
+- Here is a [PDF tutorial](https://www.dropbox.com/s/50b1c10d9m5jeeb/instruction.pdf?dl=0) and a 1-min [video tutorial](https://www.dropbox.com/s/62r79g7j8tzhvhu/GatherTown%20Tutorial.mov?dl=0). The video might be outdated with an old Gather Town version, yet the high-level operations are the same.
 
 
 
